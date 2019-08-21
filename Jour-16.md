@@ -3,9 +3,9 @@
 ## Mercredi 21/08/2019
 
 
-* [ ] Javascript :
-  * [ ] Comprendre le fonctionnement des opérateurs conditionnels `if` et `?` (https://javascript.info/ifelse)
-    * [ ] Faire les 5 exercices
+* [x] Javascript :
+  * [x] Comprendre le fonctionnement des opérateurs conditionnels `if` et `?` (https://javascript.info/ifelse)
+    * [x] Faire les 5 exercices
 
 * [ ] Algo : 
   * [ ] Ecrire en pseudocode le Insertion Sort (création pure)
